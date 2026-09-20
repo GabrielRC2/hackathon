@@ -1,7 +1,6 @@
-ultralytics
-easyocr
 opencv-python
-streamlit
-pandas
-scikit-learn
+numpy
+torch
+torchvision
+faiss-cpu
 pillow
